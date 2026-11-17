@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-**Effective Date:** Oct 14, 2026
+**Effective Date:** November 17, 2026
 
 This Privacy Policy describes how the Ecesis Trident app (“the App”) handles information. The App is designed for internal use by authorized Ecesis employees only.
 
@@ -36,9 +36,9 @@ The data returned by the configured Superset server is used by the App to displa
 
 Any server-side logging, auditing, retention, access control, monitoring, or data processing performed by the configured Superset server is governed by the policies and practices of the organization or service provider that operates that server.
 
-## 3. Unauthorized Disclosure of Internal Data
+## 3. Confidential Information
 
-You agree not to access, copy, modify, distribute, or share any internal, proprietary, or non-public data or information made available through the App. Any unauthorized distribution, dissemination, or sharing of internal data is strictly prohibited and constitutes a material breach of these Terms. Violation of this provision may result in immediate termination of your account, suspension of access to the App, and legal action, including but not limited to seeking civil damages and injunctive relief.
+Dashboards and data shown in the App are confidential internal information of Ecesis. Users must handle this information in line with Ecesis's internal policies and must not share it outside the organization unless they are authorized to do so.
 
 ## 4. Authentication
 
